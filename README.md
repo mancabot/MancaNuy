@@ -54,8 +54,8 @@ you've just cloned!!
 > pkg update && pkg upgrade 
 > pkg install nodejs
 > pkg install tesseract 
-> git clone https://github.com/mancabot/Manca-Bot-V3
-> cd Manca-Bot-V3
+> git clone https://github.com/mancabot/MancaNuy
+> cd MancaNuy
 > bash install.sh
 ```
 
