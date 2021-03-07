@@ -21,10 +21,10 @@
   "author": "Nurul",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mancabot/Manca-Bot-V3.git"
+    "url": "git+https://github.com/mancabot/MancaNuy.git"
   },
   "bugs": {
-    "url": "https://github.com/mancabot/Manca-Bot-V3/issues"
+    "url": "https://github.com/mancabot/MancaNuy/issues"
   },
   "homepage": "https://github.com/mancabot/readme.md",
   "license": "ISC",
